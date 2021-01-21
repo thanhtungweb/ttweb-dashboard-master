@@ -9257,6 +9257,7 @@ label {
 .breadcrumb {
   margin-bottom: 0; }
   .breadcrumb .breadcrumb-item {
+    display: inline-block;
     font-size: 0.98rem;
     text-transform: capitalize; }
     .breadcrumb .breadcrumb-item a {

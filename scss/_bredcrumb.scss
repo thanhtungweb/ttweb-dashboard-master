@@ -16,6 +16,7 @@
 .breadcrumb {
   margin-bottom: 0;
   .breadcrumb-item {
+    display: inline-block;
     font-size: 0.98rem;
     text-transform: capitalize;
     a {
