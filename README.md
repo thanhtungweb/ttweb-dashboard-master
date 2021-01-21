@@ -123,5 +123,5 @@ If you have questions or need help integrating the product please [contact us](m
 
 ## Licensing
 
-- Copyright 2018 TAF Coder (https://ttweb.thanhtungweb.com/)
+- Copyright 2021 ThanhTungWeb (https://ttweb.thanhtungweb.com/)
 - Licensed under MIT (https://github.com/thanhtungweb/ttweb-dashboard-master/blob/main/LICENSE.md)
