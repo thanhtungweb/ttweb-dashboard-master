@@ -1,6 +1,7 @@
 <div align="center">
-# <a href="https://ttweb.thanhtungweb.com/" target="_blank" rel="noopener noreferrer">TTWeb Dashboard</a>
-Dashboard Master Bootstrap Template
+  
+# <a href="https://ttweb.thanhtungweb.com/" target="_blank" rel="noopener noreferrer">TTWeb Dashboard Master Bootstrap Template</a>
+
 </div>
 
 <div align="center">
@@ -122,5 +123,5 @@ If you have questions or need help integrating the product please [contact us](m
 
 ## Licensing
 
-- Copyright 2018 TAF Coder (https://ttweb.thanhtungweb.com/)
+- Copyright 2021 ThanhTungWeb (https://ttweb.thanhtungweb.com/)
 - Licensed under MIT (https://github.com/thanhtungweb/ttweb-dashboard-master/blob/main/LICENSE.md)
